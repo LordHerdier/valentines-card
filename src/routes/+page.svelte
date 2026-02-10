@@ -1,5 +1,6 @@
 <script lang="ts">
   import { onMount } from "svelte";
+  
 
   let opened = false;
   let showNote = false;
